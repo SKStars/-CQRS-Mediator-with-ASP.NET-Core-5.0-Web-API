@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bA1i7jH+6cjWR3IkBMopSsxima2PCNbFv+M0EHjqfNQiXpLQhjctgjLVZRbP9cc2xwmUGM2zJUFpq5fK+CvWyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sekou\\Downloads\\CQRS_Mediator\\1\\CQRS_Mediator.Library\\CQRS_Mediator.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sekou\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
